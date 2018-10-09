@@ -1,0 +1,2 @@
+# HelloWorldCoreApp
+New Repository
